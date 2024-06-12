@@ -69,7 +69,7 @@ class _SplashscreenState extends State<Splashscreen> {
                 TextButton(
                   onPressed: () {},
                   child: Text(
-                    "Welcome To Evital Project!",
+                    "Welcome To EvitalRx Project!",
                     style: TextStyle(
                       fontStyle: FontStyle.italic,
                       fontWeight: FontWeight.bold,
@@ -87,7 +87,7 @@ class _SplashscreenState extends State<Splashscreen> {
                 TextButton(
                   onPressed: () {},
                   child: Text(
-                    "Let's Navigate the Evital Project!!",
+                    "Let's Navigate the EvitalRx Project!!",
                     style: TextStyle(
                       fontStyle: FontStyle.italic,
                       fontSize: 13,

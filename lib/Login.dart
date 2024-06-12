@@ -23,7 +23,7 @@ class _LoginState extends State<Login> {
       appBar: AppBar(
         backgroundColor: Colors.cyan,
         title: Text(
-          "Evital",
+          "EvitalRx",
           style: TextStyle(
             fontStyle: FontStyle.italic,
             fontWeight: FontWeight.bold,
