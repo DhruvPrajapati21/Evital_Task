@@ -73,7 +73,7 @@ class _SplashscreenState extends State<Splashscreen> {
                     style: TextStyle(
                       fontStyle: FontStyle.italic,
                       fontWeight: FontWeight.bold,
-                      fontSize: 21,
+                      fontSize: 18,
                       color: Colors.white,
                     ),
                   ),
