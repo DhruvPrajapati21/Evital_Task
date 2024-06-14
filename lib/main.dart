@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Evital Task',
+        title: 'EvitalRx Task',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(),
         home: Splashscreen()
