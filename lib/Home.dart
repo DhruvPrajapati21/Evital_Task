@@ -328,7 +328,7 @@ class _HomeState extends State<Home> {
       builder: (BuildContext context) {
         return AlertDialog(
           title: const Text(
-            "Logout Evital App?",
+            "Logout EvitalRx App?",
             style: TextStyle(
                 fontWeight: FontWeight.bold, fontStyle: FontStyle.italic),
           ),
@@ -358,7 +358,7 @@ class _HomeState extends State<Home> {
           context: context,
           builder: (context) => AlertDialog(
             title: Text(
-              'Exit Evital App?',
+              'Exit EvitalRx App?',
               style: TextStyle(
                   fontWeight: FontWeight.bold, fontStyle: FontStyle.italic),
             ),
